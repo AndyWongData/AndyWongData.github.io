@@ -516,44 +516,32 @@ img{
     width: 95%;
 }
 
-.skills__java{
-    width: 40%;
+.skills__sql{
+    width: 80%;
 }
 
 .skills__r{
+    width: 80%;
+}
+
+.skills__matlab{
+    width: 80%;
+}
+
+.skills__jupyter{
     width: 90%;
-}
-
-.skills__cplusplus{
-    width: 75%;
-}
-
-.skills__c{
-    width: 65%;
-}
-
-.skills__docker{
-    width: 85%;
-}
-
-.skills__kubernetes{
-    width: 30%;
 }
 
 .skills__git{
-    width: 90%;
-}
-
-.skills__reactnative{
     width: 80%;
 }
 
-.skills__bash{
-    width: 85%;
+.skills__rstudio{
+    width: 80%;
 }
 
-.skills__bootstrap{
-    width: 80%;
+.skills__dataiku{
+    width: 75%;
 }
 
 .skills__mysql{
