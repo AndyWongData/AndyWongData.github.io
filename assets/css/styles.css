@@ -513,7 +513,7 @@ img{
 }
 
 .skills__python{
-    width: 95%;
+    width: 85%;
 }
 
 .skills__sql{
@@ -521,19 +521,19 @@ img{
 }
 
 .skills__r{
-    width: 80%;
+    width: 75%;
 }
 
 .skills__matlab{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__java{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__jupyter{
-    width: 90%;
+    width: 85%;
 }
 
 .skills__git{
@@ -549,19 +549,19 @@ img{
 }
 
 .skills__snowflake{
-    width: 85%;
+    width: 80%;
 }
 
 .skills__azure{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__mssqlserver{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__sqlite{
-    width: 70%;
+    width: 60%;
 }
 
 .skills__close .skills__list{
