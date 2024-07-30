@@ -528,6 +528,10 @@ img{
     width: 80%;
 }
 
+.skills__java{
+    width: 80%;
+}
+
 .skills__jupyter{
     width: 90%;
 }
@@ -544,20 +548,20 @@ img{
     width: 75%;
 }
 
-.skills__mysql{
-    width: 70%;
+.skills__snowflake{
+    width: 85%;
 }
 
-.skills__mongo{
+.skills__azure{
     width: 80%;
 }
 
-.skills__postgresql{
-    width: 70%;
+.skills__mssqlserver{
+    width: 80%;
 }
 
-.skills__mssqlserver{
-    width: 85%;
+.skills__sqlite{
+    width: 70%;
 }
 
 .skills__close .skills__list{
