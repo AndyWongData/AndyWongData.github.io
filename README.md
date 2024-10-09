@@ -1,6 +1,8 @@
 # My Portfolio Website
 
-Welcome to my portfolio! This repository was forked from [Guglielmo Cerri](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) and adapted to fit my personal needs.
+Welcome to my portfolio! 
+
+- This repository was forked from [Guglielmo Cerri](https://github.com/GuglielmoCerri/GuglielmoCerri.github.io) and adapted to fit my personal needs. 
 
 Within this portfolio, you'll find a brief overview of
 - Who I am
